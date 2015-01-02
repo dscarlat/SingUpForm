@@ -9,5 +9,6 @@
     <string name="submit">SUBMIT</string>
     <string name="username">Username:</string>
     <string name="usernamehint">Please enter your username</string>
+    <string name="random">Peso</string>
 
 </resources>
